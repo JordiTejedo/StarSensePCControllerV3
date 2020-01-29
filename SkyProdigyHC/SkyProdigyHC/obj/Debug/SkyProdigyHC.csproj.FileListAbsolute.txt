@@ -1,0 +1,24 @@
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\bin\Debug\SkyProdigyHC.exe
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\bin\Debug\SkyProdigyHC.pdb
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\obj\Debug\SkyProdigyHC.Form1.resources
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\obj\Debug\SkyProdigyHC.Properties.Resources.resources
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\obj\Debug\SkyProdigyHC.csproj.GenerateResource.Cache
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\obj\Debug\SkyProdigyHC.exe
+C:\Users\Jordi\AppData\Local\Temporary Projects\SkyProdigyHC\obj\Debug\SkyProdigyHC.pdb
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.exe
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.pdb
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.Properties.Resources.resources
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.csproj.GenerateResource.Cache
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\bin\Debug\SkyProdigyHC.exe
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\bin\Debug\SkyProdigyHC.pdb
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV2\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.F_Inicio.resources
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.exe
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.pdb
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\bin\Debug\SkyProdigyHC.exe
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\bin\Debug\SkyProdigyHC.pdb
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.F_Inicio.resources
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.Properties.Resources.resources
+C:\Users\Jordi\Desktop\TFC\Telescopio\StarSensePCControllerV3\SkyProdigyHC\SkyProdigyHC\obj\Debug\SkyProdigyHC.csproj.GenerateResource.Cache
